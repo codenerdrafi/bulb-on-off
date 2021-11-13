@@ -27,3 +27,12 @@ button{
         font-size: 12px;
     }
 }
+@media(max-width: 311px){
+    img{
+        width: 80px;
+    }
+    button{
+        padding: 7px 20px;
+        font-size: 12px;
+    }
+}
